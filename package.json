@@ -2,7 +2,7 @@
   "name": "@f/self-closing-tags",
   "description": "List of HTML self-closing tags",
   "repository": "git://github.com/micro-js/self-closing-tags.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
