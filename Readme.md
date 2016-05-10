@@ -14,18 +14,15 @@ List of HTML self-closing tags
 
 ## Usage
 
+Just exports an array of self-closing HTML tags. And also exports an object map at the `index` property.
+
 ```js
 var selfClosingTags = require('@f/self-closing-tags')
 
+selfClosingTags.indexOf('br') !== -1
+
+selfClosingTags.index.br === true
 ```
-
-## API
-
-### selfClosingTags(arg)
-
-- `arg` -
-
-**Returns:**
 
 ## License
 
